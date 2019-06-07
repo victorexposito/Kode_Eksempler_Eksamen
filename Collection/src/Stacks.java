@@ -10,7 +10,7 @@ public class Stacks {
         System.out.println("push(" + a + ")");
         System.out.println("stack: " + st);
     }
-d
+
     static void showpop(Stack st) {
         System.out.print("pop -> ");
         Integer a = (Integer) st.pop();
