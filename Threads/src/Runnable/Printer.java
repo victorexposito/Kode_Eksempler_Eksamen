@@ -1,3 +1,5 @@
+package Runnable;
+
 public class Printer {
 
     public void print(char c){
